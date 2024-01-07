@@ -1,0 +1,59 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color:midnightblue;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+  background-image: url(https://img.freepik.com/free-photo/black-white-mountain-background_23-2150530987.jpg?t=st=1704618356~exp=1704621956~hmac=a7c25e9dc4edfe7be222f5e24be7c798a33a01860a991a53e0bfddfbc6a08e5a&w=1380);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.main {
+  flex:1;
+  
+}
+
+h1 {
+  font-size: 5rem;
+  text-align: center;
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+.logo{
+  position: relative;
+  left: 40%;
+}
+.blue{
+  color: midnightblue;
+}
+
+
+.tile-image{
+  height:200px ;
+  padding: 20px;
+  float: left;
+  
+}
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+.card {
+  width: 45%;
+}
+
+p,h2{
+  font-size: large;
+  color: solid black;
+}
+
+
+
